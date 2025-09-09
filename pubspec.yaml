@@ -4,7 +4,7 @@ version: 0.0.6
 homepage: https://github.com/weishirongzhen/flutter_trust_wallet_core
 
 environment:
-  sdk: ">=2.19.0 <3.0.0"
+  sdk: ">=2.19.0 < 4.0.0"
   flutter: ">=2.5.0"
 
 dependencies:
@@ -13,6 +13,7 @@ dependencies:
   ffi: ^2.0.1
   protobuf: ^2.1.0
   fixnum: ^1.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
